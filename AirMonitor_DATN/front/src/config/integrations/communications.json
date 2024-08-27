@@ -1,0 +1,10 @@
+[
+  {
+    "key": "telegram",
+    "img": "/assets/integrations/cover/telegram.jpg"
+  },
+  {
+    "key": "openai",
+    "img": "/assets/integrations/cover/openai.jpg"
+  }
+]

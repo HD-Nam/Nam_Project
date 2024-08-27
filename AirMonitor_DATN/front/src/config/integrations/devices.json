@@ -1,0 +1,15 @@
+[
+  {
+    "key": "rtspCamera",
+    "link": "rtsp-camera",
+    "img": "/assets/integrations/cover/rtsp-camera.jpg"
+  },
+  {
+    "key": "mqtt",
+    "img": "/assets/integrations/cover/mqtt.jpg"
+  },
+  {
+    "key": "bluetooth",
+    "img": "/assets/integrations/cover/bluetooth.jpg"
+  }
+]

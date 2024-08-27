@@ -1,0 +1,100 @@
+Teardrop Report Tunng_PCB2.PcbDoc
+On 7/5/2024 at 6:03:45 PM
+
+Pads visited                : 87
+
+Vias visited                : 0
+
+Pad teardrops failed : 0
+
+Pad J12-2(30.861mm,125.885mm) on Multi-Layer
+Pad J12-1(30.861mm,129.385mm) on Multi-Layer
+Pad R4-1(45.466mm,128.03602mm) on Multi-Layer
+Pad R4-2(45.466mm,117.83598mm) on Multi-Layer
+Pad R3-1(39.497mm,117.96298mm) on Multi-Layer
+Pad R3-2(39.497mm,128.16302mm) on Multi-Layer
+Pad U1-4(65.881mm,125.55398mm) on Multi-Layer
+Pad U1-2(65.881mm,128.95402mm) on Multi-Layer
+Pad U1-5(61.881mm,123.85401mm) on Multi-Layer
+Pad U1-3(61.881mm,127.254mm) on Multi-Layer
+Pad U1-1(61.881mm,130.65399mm) on Multi-Layer
+Pad L1-1(82.423mm,118.491mm) on Multi-Layer
+Pad L1-2(82.423mm,113.411mm) on Multi-Layer
+Pad C1-2(53.213mm,130.302mm) on Multi-Layer
+Pad C1-1(53.213mm,127.762mm) on Multi-Layer
+Pad C2-2(52.09799mm,116.84mm) on Multi-Layer
+Pad C2-1(55.59801mm,116.84mm) on Multi-Layer
+Pad D1-2(90.17mm,119.126mm) on Multi-Layer
+Pad D1-1(90.17mm,131.572mm) on Multi-Layer
+Pad R1-1(76.2mm,115.951mm) on Multi-Layer
+Pad R1-2(67.31mm,115.951mm) on Multi-Layer
+Pad LED1-1(62.103mm,115.062mm) on Multi-Layer
+Pad LED1-2(62.103mm,117.602mm) on Multi-Layer
+Pad R2-1(74.90998mm,72.39mm) on Multi-Layer
+Pad R2-2(85.11002mm,72.39mm) on Multi-Layer
+Pad C9-2(78.359mm,129.63901mm) on Multi-Layer
+Pad C9-1(78.359mm,126.13899mm) on Multi-Layer
+Pad STM1-1(82.042mm,105.156mm) on Multi-Layer
+Pad STM1-2(79.502mm,105.156mm) on Multi-Layer
+Pad STM1-3(76.962mm,105.156mm) on Multi-Layer
+Pad STM1-4(74.422mm,105.156mm) on Multi-Layer
+Pad STM1-5(71.882mm,105.156mm) on Multi-Layer
+Pad STM1-6(69.342mm,105.156mm) on Multi-Layer
+Pad STM1-7(66.802mm,105.156mm) on Multi-Layer
+Pad STM1-8(64.262mm,105.156mm) on Multi-Layer
+Pad STM1-9(61.722mm,105.156mm) on Multi-Layer
+Pad STM1-10(59.182mm,105.156mm) on Multi-Layer
+Pad STM1-11(56.642mm,105.156mm) on Multi-Layer
+Pad STM1-12(54.102mm,105.156mm) on Multi-Layer
+Pad STM1-13(51.562mm,105.156mm) on Multi-Layer
+Pad STM1-14(49.022mm,105.156mm) on Multi-Layer
+Pad STM1-15(46.482mm,105.156mm) on Multi-Layer
+Pad STM1-16(43.942mm,105.156mm) on Multi-Layer
+Pad STM1-17(41.402mm,105.156mm) on Multi-Layer
+Pad STM1-18(38.862mm,105.156mm) on Multi-Layer
+Pad STM1-19(36.322mm,105.156mm) on Multi-Layer
+Pad STM1-20(33.782mm,105.156mm) on Multi-Layer
+Pad STM1-40(82.042mm,89.916mm) on Multi-Layer
+Pad STM1-39(79.502mm,89.916mm) on Multi-Layer
+Pad STM1-38(76.962mm,89.916mm) on Multi-Layer
+Pad STM1-37(74.422mm,89.916mm) on Multi-Layer
+Pad STM1-36(71.882mm,89.916mm) on Multi-Layer
+Pad STM1-35(69.342mm,89.916mm) on Multi-Layer
+Pad STM1-34(66.802mm,89.916mm) on Multi-Layer
+Pad STM1-33(64.262mm,89.916mm) on Multi-Layer
+Pad STM1-32(61.722mm,89.916mm) on Multi-Layer
+Pad STM1-31(59.182mm,89.916mm) on Multi-Layer
+Pad STM1-30(56.642mm,89.916mm) on Multi-Layer
+Pad STM1-29(54.102mm,89.916mm) on Multi-Layer
+Pad STM1-28(51.562mm,89.916mm) on Multi-Layer
+Pad STM1-27(49.022mm,89.916mm) on Multi-Layer
+Pad STM1-26(46.482mm,89.916mm) on Multi-Layer
+Pad STM1-25(43.942mm,89.916mm) on Multi-Layer
+Pad STM1-24(41.402mm,89.916mm) on Multi-Layer
+Pad STM1-23(38.862mm,89.916mm) on Multi-Layer
+Pad STM1-22(36.322mm,89.916mm) on Multi-Layer
+Pad STM1-21(33.782mm,89.916mm) on Multi-Layer
+Pad LoRa Module-7(113.284mm,78.486mm) on Multi-Layer
+Pad LoRa Module-6(110.744mm,78.486mm) on Multi-Layer
+Pad LoRa Module-5(108.204mm,78.486mm) on Multi-Layer
+Pad LoRa Module-4(105.664mm,78.486mm) on Multi-Layer
+Pad LoRa Module-2(100.584mm,78.486mm) on Multi-Layer
+Pad LoRa Module-1(98.044mm,78.486mm) on Multi-Layer
+Pad LoRa Module-3(103.124mm,78.486mm) on Multi-Layer
+Pad H2-3(81.026mm,79.502mm) on Multi-Layer
+Pad H2-1(86.106mm,79.502mm) on Multi-Layer
+Pad H2-2(83.566mm,79.502mm) on Multi-Layer
+Pad H2-4(78.486mm,79.502mm) on Multi-Layer
+Pad H2-5(75.946mm,79.502mm) on Multi-Layer
+Pad H2-6(73.406mm,79.502mm) on Multi-Layer
+Pad MQ135 Sensor-1(40.005mm,79.629mm) on Multi-Layer
+Pad MQ135 Sensor-2(37.465mm,79.629mm) on Multi-Layer
+Pad MQ135 Sensor-3(34.925mm,79.629mm) on Multi-Layer
+Pad MQ135 Sensor-4(32.385mm,79.629mm) on Multi-Layer
+Pad DHT22-1(56.896mm,79.756mm) on Multi-Layer
+Pad DHT22-2(59.436mm,79.756mm) on Multi-Layer
+Pad DHT22-3(61.976mm,79.756mm) on Multi-Layer
+
+Via teardrops failed : 0
+
+

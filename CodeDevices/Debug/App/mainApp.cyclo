@@ -1,0 +1,6 @@
+../App/mainApp.c:21:6:mainApp	3
+../App/mainApp.c:62:6:Event_SendMessage	2
+../App/mainApp.c:73:6:uart_readbyte	1
+../App/mainApp.c:78:6:HAL_RTCEx_RTCEventCallback	6
+../App/mainApp.c:106:6:HAL_TIM_PeriodElapsedCallback	6
+../App/mainApp.c:139:6:RTC_enable_int	1

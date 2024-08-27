@@ -1,0 +1,14 @@
+../middlelayers/lo_ptc/lo_ptc.c:21:8:newLcp	2
+../middlelayers/lo_ptc/lo_ptc.c:58:6:Lcp_Dispose	2
+../middlelayers/lo_ptc/lo_ptc.c:72:6:Lcp_pushMessage	1
+../middlelayers/lo_ptc/lo_ptc.c:76:9:Lcp_pullMessage	1
+../middlelayers/lo_ptc/lo_ptc.c:80:9:Lcp_pullMessageSend	1
+../middlelayers/lo_ptc/lo_ptc.c:84:10:Lcp_countData	1
+../middlelayers/lo_ptc/lo_ptc.c:90:14:Lcp_Connect	5
+../middlelayers/lo_ptc/lo_ptc.c:120:14:Lcp_disconnect	2
+../middlelayers/lo_ptc/lo_ptc.c:135:6:Lcp_Runtime	3
+../middlelayers/lo_ptc/lo_ptc.c:151:6:Lcp_nProcess	26
+../middlelayers/lo_ptc/lo_ptc.c:321:9:Lcp_getConn	2
+../middlelayers/lo_ptc/lo_ptc.c:336:6:Lcp_EventEstablish	1
+../middlelayers/lo_ptc/lo_ptc.c:341:6:Lcp_EventSendMessage	1
+../middlelayers/lo_ptc/lo_ptc.c:346:6:Lcp_EventDisconnected	1

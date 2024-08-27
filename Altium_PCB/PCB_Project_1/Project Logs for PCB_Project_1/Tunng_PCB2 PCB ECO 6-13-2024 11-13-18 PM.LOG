@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=VCC3V3 Pin=DHT1-1
+Added Pin To Net: NetName=A1 Pin=DHT1-2
+Added Pin To Net: NetName=GND Pin=DHT1-4
+Added Room: Name=Tunng_Sheet2

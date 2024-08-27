@@ -1,0 +1,13 @@
+../middlelayers/acp/acp.c:26:6:newAcp	32	static
+../middlelayers/acp/acp.c:60:6:Acp_Dispose	24	static
+../middlelayers/acp/acp.c:74:6:Acp_pushMessage	24	static
+../middlelayers/acp/acp.c:78:16:Acp_pullMessage	24	static
+../middlelayers/acp/acp.c:82:16:Acp_pullMessageSend	24	static
+../middlelayers/acp/acp.c:86:10:Acp_countData	16	static
+../middlelayers/acp/acp.c:92:16:Acp_Listen	24	static
+../middlelayers/acp/acp.c:106:12:Acp_Connect	32	static
+../middlelayers/acp/acp.c:150:12:Acp_disconnect	24	static
+../middlelayers/acp/acp.c:180:6:Acp_Process	88	static
+../middlelayers/acp/acp.c:579:16:Acp_getConn	40	static
+../middlelayers/acp/acp.c:594:6:Acp_EventEstablish	16	static
+../middlelayers/acp/acp.c:599:6:Acp_EventDisconnected	16	static

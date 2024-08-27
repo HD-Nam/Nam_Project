@@ -1,0 +1,7 @@
+../middlelayers/device/DHT22/DHT22.c:4:6:DHT22_init	2
+../middlelayers/device/DHT22/DHT22.c:18:6:DHT22_setup	1
+../middlelayers/device/DHT22/DHT22.c:25:13:DHT22_getStatus	1
+../middlelayers/device/DHT22/DHT22.c:30:6:DHT22_resetTimer	1
+../middlelayers/device/DHT22/DHT22.c:35:6:DHT22_readSensor	11
+../middlelayers/device/DHT22/DHT22.c:116:7:DHT22_getTemperature	2
+../middlelayers/device/DHT22/DHT22.c:124:7:DHT22_getHumidity	2

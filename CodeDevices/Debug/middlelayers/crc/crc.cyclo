@@ -1,0 +1,3 @@
+../middlelayers/crc/crc.c:4:16:Crc8_CcitUpdate	3
+../middlelayers/crc/crc.c:23:9:Crc8_CalCcit	2
+../middlelayers/crc/crc.c:34:10:Get_CRC16_Modbus	5

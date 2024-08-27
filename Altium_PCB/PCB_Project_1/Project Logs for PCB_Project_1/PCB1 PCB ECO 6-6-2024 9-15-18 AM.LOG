@@ -1,0 +1,9 @@
+Change Component Designator: OldDesignator=LM? NewDesignator=LM1
+Added Component: Designator=L1(INDC_L127H_331)
+Added Pin To Net: NetName=5V Pin=C1-1
+Added Pin To Net: NetName=3.3V Pin=C2-1
+Added Pin To Net: NetName=5V Pin=D1-2
+Added Pin To Net: NetName=5V Pin=LM1-1
+Added Pin To Net: NetName=3.3V Pin=LM1-4
+Added Member To Class: ClassName=Sheet1 Member=Component C1 470uF
+Added Member To Class: ClassName=Sheet1 Member=Component C2 470uF

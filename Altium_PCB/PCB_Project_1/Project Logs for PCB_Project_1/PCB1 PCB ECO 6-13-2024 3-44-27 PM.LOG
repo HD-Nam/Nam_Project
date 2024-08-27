@@ -1,0 +1,49 @@
+Removed Pin From Net: NetName=GND Pin=C6-2
+Removed Pin From Net: NetName=5V Pin=H1-1
+Removed Pin From Net: NetName=3.3V Pin=R2-2
+Removed Member From Class: ClassName=Sheet1 Member=C6
+Removed Member From Class: ClassName=Sheet1 Member=R2
+Change Component Comment : Designator=H4 Old Comment=Header 7P 2.54 Duc Cong New Comment=Header 7P
+Added Component: Designator=C?(tu hoa 5mm)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH004510"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "T? Hóa 220uF 10V 6x11MM"; VariantName = "[No Variations]"
+Added Component: Designator=R?(tro smd 0805)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH005255"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Tr? 0805 5% 150R"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=5V Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=H3-2
+Added Pin To Net: NetName=GND Pin=H4-1
+Added Pin To Net: NetName=GND Pin=H4-2
+Added Pin To Net: NetName=5V Pin=R?-1
+Added Pin To Net: NetName=A0 Pin=H2-2
+Added Pin To Net: NetName=A0 Pin=U1-25
+Added Net: Name=A0
+Added Pin To Net: NetName=A1 Pin=H3-4
+Added Pin To Net: NetName=A1 Pin=U1-26
+Added Net: Name=A1
+Added Pin To Net: NetName=A2 Pin=H1-5
+Added Pin To Net: NetName=A2 Pin=U1-27
+Added Net: Name=A2
+Added Pin To Net: NetName=A6 Pin=H1-3
+Added Pin To Net: NetName=A6 Pin=U1-31
+Added Net: Name=A6
+Added Pin To Net: NetName=NetH1_1 Pin=H1-1
+Added Pin To Net: NetName=NetH1_1 Pin=R?-2
+Added Net: Name=NetH1_1
+Added Pin To Net: NetName=Rx Pin=H4-4
+Added Pin To Net: NetName=Rx Pin=U1-7
+Added Net: Name=Rx
+Added Pin To Net: NetName=Tx Pin=H4-3
+Added Pin To Net: NetName=Tx Pin=U1-6
+Added Net: Name=Tx
+Added Member To Class: ClassName=Sheet1 Member=Component C? 220uF
+Added Member To Class: ClassName=Sheet1 Member=Component R? 150R

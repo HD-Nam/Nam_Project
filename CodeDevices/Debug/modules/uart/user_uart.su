@@ -1,0 +1,8 @@
+../modules/uart/user_uart.c:17:6:uart_init	32	static
+../modules/uart/user_uart.c:44:6:uart_WriteData	24	static
+../modules/uart/user_uart.c:65:6:uart_recive_add_callback	16	static
+../modules/uart/user_uart.c:73:6:uart_writebyte	16	static
+../modules/uart/user_uart.c:81:6:uart_portInit	72	static
+../modules/uart/user_uart.c:138:6:USART1_IRQHandler	16	static
+../modules/uart/user_uart.c:163:6:USART2_IRQHandler	16	static
+../modules/uart/user_uart.c:188:6:USART3_IRQHandler	16	static

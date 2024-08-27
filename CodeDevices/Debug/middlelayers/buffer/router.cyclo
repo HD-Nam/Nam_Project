@@ -1,0 +1,13 @@
+../middlelayers/buffer/router.c:8:9:newRouter	2
+../middlelayers/buffer/router.c:33:6:Router_Dispose	1
+../middlelayers/buffer/router.c:42:6:Router_SlipConfig	1
+../middlelayers/buffer/router.c:47:6:Router_noParodyConfig	1
+../middlelayers/buffer/router.c:54:6:Router_echoTxConfig	1
+../middlelayers/buffer/router.c:59:6:Router_echoRxConfig	1
+../middlelayers/buffer/router.c:64:6:Router_PushMessageTx	6
+../middlelayers/buffer/router.c:98:19:Router_PushMessageRx	1
+../middlelayers/buffer/router.c:103:19:Router_PullMessageTx	1
+../middlelayers/buffer/router.c:108:10:Router_CountDataTx	1
+../middlelayers/buffer/router.c:113:10:Router_CountDataRx	1
+../middlelayers/buffer/router.c:118:19:Router_PullMessageRx	3
+../middlelayers/buffer/router.c:139:19:Router_MessageHandler	21

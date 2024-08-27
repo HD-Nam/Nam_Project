@@ -1,0 +1,11 @@
+../middlelayers/device/MQ135/MQ135.c:18:6:MQ135_init	24	static
+../middlelayers/device/MQ135/MQ135.c:30:7:MQ135_getCorrectionFactor	32	static
+../middlelayers/device/MQ135/MQ135.c:41:7:MQ135_getResistance	32	static
+../middlelayers/device/MQ135/MQ135.c:57:7:MQ135_getCorrectedResistance	32	static
+../middlelayers/device/MQ135/MQ135.c:63:7:MQ135_getCO2PPM	16	static
+../middlelayers/device/MQ135/MQ135.c:69:7:MQ135_getCorrectedCO2PPM	24	static
+../middlelayers/device/MQ135/MQ135.c:76:7:MQ135_getRZeroCO2	16	static
+../middlelayers/device/MQ135/MQ135.c:82:7:MQ135_getCorrectedRZeroCO2	24	static
+../middlelayers/device/MQ135/MQ135.c:90:7:MQ135_getRatio	24	static
+../middlelayers/device/MQ135/MQ135.c:99:7:MQ135_getCOPPM	24	static
+../middlelayers/device/MQ135/MQ135.c:110:7:MQ135_getSensorResistance	16	static

@@ -1,0 +1,3 @@
+../middlelayers/crc/crc.c:4:16:Crc8_CcitUpdate	24	static
+../middlelayers/crc/crc.c:23:9:Crc8_CalCcit	24	static
+../middlelayers/crc/crc.c:34:10:Get_CRC16_Modbus	24	static

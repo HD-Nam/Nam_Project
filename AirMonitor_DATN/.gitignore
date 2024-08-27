@@ -1,0 +1,20 @@
+node_modules
+apidoc
+jsdoc
+*.lcov
+*.env
+.nyc_output
+build
+static
+gladys-backups
+qemu-*
+coverage
+persist
+stats.json
+size-plugin.json
+# VSCode
+.vscode
+# Webstorm
+.idea
+.tmp
+.DS_Store

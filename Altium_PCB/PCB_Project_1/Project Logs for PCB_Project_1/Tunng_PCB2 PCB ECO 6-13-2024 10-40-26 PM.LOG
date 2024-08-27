@@ -1,0 +1,10 @@
+Change Component Footprint: Designator=C7 Old Footprint=tu hoa 4mm New Footprint=Tu hoa 8mm
+Change component parameters: Designator = "C7"; Footprint = "Tu hoa 8mm"; UniqueID = "\OSOPGFDL"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH006864"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten_Linh_Kien"; Value = "T? Hóa 220uF 25V 8x10MM"; VariantName = "[No Variations]"
+Added Room: Name=Tunng_Sheet2
